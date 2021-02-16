@@ -1,4 +1,4 @@
-# Dobby_is_free
+# dobby-is-free
 
 Learn shortcuts, be free from mouse.
 
